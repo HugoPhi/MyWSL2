@@ -1,3 +1,5 @@
+" version 0.0.1 | 2023/7/19 | by hugo 
+
 " Uncomment the following to have Vim jump to the last position when
 " reopening a file
 if has("autocmd")
